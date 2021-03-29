@@ -31,7 +31,7 @@
 
         </ul>
       </div>
-      <img src="/static/img/arrow-right.png"
+      <img src="../../../static/img/arrow-right.png"
            @click="tocinemaDetail">
 
     </div>
@@ -377,12 +377,12 @@ export default {
   display: inline;
 }
 .info .filmheader li:first-child {
-  font-size: 15px;
+  font-size: 30px;
   color: #191a1b;
   padding-right: 5px;
 }
 .info .filmheader li:nth-child(2) {
-  font-size: 16px;
+  font-size: 30px;
   font-style: italic;
   color: #ffb232;
 }
@@ -391,7 +391,6 @@ export default {
   height: 38px;
   width: 550px;
   color: #797d82;
-  font-size: 13px;
 
   overflow: hidden;
   -o-text-overflow: ellipsis;
@@ -399,6 +398,7 @@ export default {
   white-space: nowrap;
 }
 .info .filmdesc li {
+  font-size: 20px;
   display: inline;
   padding-right: 5px;
   border-right: solid 2px #ccc;
@@ -434,7 +434,7 @@ export default {
   color: #ff5f16;
 }
 .tips {
-  font-size: 20px;
-  margin-left: 10px;
+  font-size: 30px;
+  margin-left: 100px;
 }
 </style>

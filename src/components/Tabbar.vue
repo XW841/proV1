@@ -108,7 +108,7 @@ li:nth-child(2) {
   position: fixed;
   top: 0;
   left: 0;
-  font-size: 13px;
+  font-size: 25px;
   margin-left: 10px;
   padding: 0 10px;
   /* color: rgb(10, 10, 10); */

@@ -202,7 +202,7 @@ li {
 }
 .tips ul li {
   display: inline-block;
-  font-size: 13px;
+  font-size: 20px;
   color: #ffb232;
   border: 1px solid #ffb232;
 }
@@ -210,7 +210,7 @@ li {
 .add {
   position: absolute;
   top: 100px;
-  font-size: 14px;
+  font-size: 25px;
   width: 100%;
   padding: 5px 5px;
   margin: 20px 0;

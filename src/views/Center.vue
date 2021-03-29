@@ -31,11 +31,11 @@
       <div class="bottom">
         <ul>
           <li><img src="../../static/img/center/yue.png"
-                 class="icon"><span>余额</span> <img src="/static/img/arrow-right.png"> </li>
+                 class="icon"><span>余额</span> <img src="../../static/img/arrow-right.png"> </li>
           <li><img src="../../static/img/center/maizuoquan.png"
-                 class="icon"><span>优惠券</span> <img src="/static/img/arrow-right.png"> </li>
+                 class="icon"><span>优惠券</span> <img src="../../static/img/arrow-right.png"> </li>
           <li><img src="../../static/img/center/hongbao.png"
-                 class="icon"><span>观影红包</span> <img src="/static/img/arrow-right.png"></li>
+                 class="icon"><span>观影红包</span> <img src="../../static/img/arrow-right.png"></li>
 
           <li><img src="../../static/img/center/shezhi.png"
                  class="icon"><span>个性设置</span> <img src="../../static/img/arrow-right.png"></li>
