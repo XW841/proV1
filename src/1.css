@@ -1,0 +1,8 @@
+ul li {
+    overflow: hidden;
+    padding: 10px;
+}
+
+ul li img {
+    float: left;
+}
